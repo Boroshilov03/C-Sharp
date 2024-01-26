@@ -12,3 +12,4 @@ C:\Users\mikab\Desktop\475-Labs\Calculator\Calculator\obj\Debug\net8.0\refint\Ca
 C:\Users\mikab\Desktop\475-Labs\Calculator\Calculator\obj\Debug\net8.0\Calculator.pdb
 C:\Users\mikab\Desktop\475-Labs\Calculator\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
 C:\Users\mikab\Desktop\475-Labs\Calculator\Calculator\obj\Debug\net8.0\ref\Calculator.dll
+C:\Users\mikab\Desktop\475-Labs\Calculator\Calculator\obj\Debug\net8.0\Calculator.sourcelink.json
