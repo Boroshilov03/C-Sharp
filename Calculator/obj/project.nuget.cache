@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "y8Jt5LuGksS84jcyjAzAw4X8sQbWMBRdRI7hmy2G1hGnqBztyQymlhWa1M9Orcw0+KTi9IPZ1UlpsiFEmxdMxg==",
+  "dgSpecHash": "qXdQ51FLclmXoV4Qftlbqo839xTiAUfhm249gzBjYUdB2sqT4SLUpjkr/N3EFH5rxXsS0TCpxo1knmpzcbFzMA==",
   "success": true,
   "projectFilePath": "C:\\Users\\mikab\\Desktop\\475-Labs\\Calculator\\Calculator\\Calculator.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\mikab\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
